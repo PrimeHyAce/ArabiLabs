@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672196683031",
+    "project_id": "arabilabs-630cc",
+    "storage_bucket": "arabilabs-630cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672196683031:android:5844212457823a780d0352",
+        "android_client_info": {
+          "package_name": "com.INFX.ArabiLabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672196683031-cgb36parfvlljn4pbhka7j5uk5a8t9hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQN0zH_PdZBwrN197Dg4Bovl7W8qTHYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672196683031-cgb36parfvlljn4pbhka7j5uk5a8t9hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
