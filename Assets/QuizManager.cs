@@ -57,7 +57,7 @@ public class QuizManager : MonoBehaviour
         {
             Debug.Log("Quiz Finished");
             quizResultPanel.SetActive(true);
-            quizResultText.text = "Score: " + score * 20;
+            quizResultText.text = "Nilai: " + score * 20;
         }
         else
         {
