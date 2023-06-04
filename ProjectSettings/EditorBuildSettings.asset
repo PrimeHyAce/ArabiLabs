@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Profile.unity
     guid: ce7a731f5f50b5d4aa793d4309daa3c9
+  - enabled: 1
+    path: Assets/Scenes/One.unity
+    guid: e3206eb5aa532714c84f60701a02cbe9
+  - enabled: 1
+    path: Assets/Scenes/Qiraah.unity
+    guid: c8534e1de2e110743bda64731f199b1c
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 062f65848c7333e4cb9120a9e5b0f4b8
   m_configObjects: {}
